@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jesusaraujo06
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning robotic
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola, yo soy @jesusaraujo06
+- 👀 Me apasiona la programación
+- 🌱 Estoy interesado en aprender Angular a un gran nivel
+- 📫 Puedes comunicarte conmigo a través del correo: jesusaraujo.0699@gmail.com
 
 <!---
 jesusaraujo06/jesusaraujo06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
