@@ -1,6 +1,6 @@
 - 👋 Hola, yo soy @jesusaraujo06
 - 👀 Me apasiona la programación
-- 🌱 Estoy interesado en aprender Angular y Laravel a un gran nivel
+- 🌱 Actualmente estoy aprendiendo .NET (C#).
 - 📫 Puedes comunicarte conmigo a través del correo: jesusaraujo.0699@gmail.com
 
 <!---
