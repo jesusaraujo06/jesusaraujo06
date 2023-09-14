@@ -1,6 +1,7 @@
-- 👋 Hola, yo soy @jesusaraujo06
+- 👋 Hola, yo soy Jesus Araujo (JesuuDev)
 - 👀 Me apasiona la programación
-- 🌱 Actualmente estoy aprendiendo .NET (C#).
+- 🌱 Actualmente estoy trabajando con la plataforma .NET
+- ⭐ Me interesa mucho Angular, lo estudio en mis tiempos libres.
 - 📫 Puedes comunicarte conmigo a través del correo: jesusaraujo.0699@gmail.com
 
 <!---
